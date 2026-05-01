@@ -2,7 +2,7 @@
 
 
 
-Me chamo Sarah Vitória Tavares Nunes , sou estudante de Sistemas de Informação no Instituto Federal de Goiás (IFG), apaixonada por tecnologia  especialmente pela área de dados. Gosto de explorar análise de dados, SQL e Python, e acredito que por trás de cada dado existe um insight esperando para ser descoberto. Atualmente aprendendo Python, SQL, análise de dados e visualização. Aberta a colaborações e oportunidades na área de dado.
+Me chamo Sarah Vitória Tavares Nunes , sou estudante de Sistemas de Informação no Instituto Federal de Goiás (IFG), apaixonada por tecnologia  especialmente pela área de dados. Atualmente aprendendo um pouco sobre Engenharia de dados com Python e SQL. Aberta a colaborações e oportunidades na área.
 
 
 <p align="left">
