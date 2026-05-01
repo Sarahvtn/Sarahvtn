@@ -19,16 +19,16 @@ Me chamo Sarah Vitória Tavares Nunes , sou estudante de Sistemas de Informaçã
 align="left" 
     alt="Sql" 
     title="Sql"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 
 
 <img 
 align="left" 
-    alt="Sql" 
-    title="Sql"
-    width="30px" 
+    alt="Python" 
+    title="PyThon"
+    width="50px" 
     style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
           
