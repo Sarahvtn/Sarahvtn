@@ -41,23 +41,24 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 
 ### 📊 Estatísticas
 
+
+
 <p>
-  
-  
-
-  
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="130" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarahvtn&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=2" 
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="130"
+    src="https://github-readme-stats.vercel.app/api?username=Sarahvtn&theme=tokyonight&show_icons=true&hide_border=true"
   />
-
-
 </p>
 
+<p>
+  <img
+    alt="Top Langs"
+    height="130"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarahvtn&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=2"
+  />
+</p>
 
 
 
