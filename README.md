@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou a Sarah Vitória 👋</h1>
 
-<h3 align="center">Estudante de Sistemas de Informação | Entusiasta de Dados 📊</h3>
+<h3 align="center">Estudante de Sistemas de Informação | Engenharia de dados</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+-+IFG;Apaixonada+por+Tecnologia+e+Dados;Aprendendo+Engenharia+de+Dados+com+Python+e+SQL;Aberta+a+colabora%C3%A7%C3%B5es+e+oportunidades!" alt="Typing SVG" />
@@ -28,8 +28,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://instagram.com/SEU-INSTAGRAM-AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+    
 </p>
 
 ---
@@ -63,16 +62,6 @@
 
 ---
 
-### 🏆 Troféus
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarahvtn&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://komarev.com/ghpvc/?username=Sarahvtn&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=2E9EF7&style=flat" alt="Contador de visitas"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sarahvtn&label=Visualizações%20do%20perfil&color=2E9EF7&style=flat" alt="Contador de visitas"/>
-</p>
-
-<p align="center"><i>Obrigada pela visita! ⭐</i></p>
